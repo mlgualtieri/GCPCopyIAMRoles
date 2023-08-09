@@ -12,3 +12,5 @@ Usage:
   Copy mode:
     python3 GCPCopyIAMRoles.py --from user1@domain.com --to user2@domain.com
 ```
+
+#### Prior to use, set the GCP_PROJECT variable to your project.

@@ -21,7 +21,7 @@ GCP_PROJECT = ""
 
 
 if (len(sys.argv) < 2) or (sys.argv[1] != "--from"):
-    print("Usage:", sys.argv[0], "--from username1@domain.com --to username2@domain.com")
+    print("Usage:", sys.argv[0], "--from user1@domain.com --to user2@domain.com")
     exit()
 
 
